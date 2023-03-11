@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a70123ac.css",
+    "main.js": "./static/js/main.94913bd9.js",
+    "static/media/banner.jpg": "./static/media/banner.db1fc76a38e3646fe045.jpg",
+    "static/media/Logo.png": "./static/media/Logo.0fce39b214bb5e9ee1a2.png",
+    "static/media/s21.jpg": "./static/media/s21.f36507810bc3d8ac6901.jpg",
+    "static/media/apple.jpg": "./static/media/apple.1241b662a934ee241772.jpg",
+    "static/media/iphone12.jpg": "./static/media/iphone12.615b7a89f4dbb943ac7c.jpg",
+    "static/media/iphone10.jpg": "./static/media/iphone10.c41b19ffbc3a05fe429d.jpg",
+    "static/media/iphone11.jpg": "./static/media/iphone11.56e61b0945377851e289.jpg",
+    "static/media/samsung.jpg": "./static/media/samsung.3b4b7a5698711096ac22.jpg",
+    "index.html": "./index.html",
+    "static/media/down.svg": "./static/media/down.d6a128cec213c077a955e4da14d008c9.svg",
+    "static/media/up.svg": "./static/media/up.763a17a92dc208878ded6fa8abab2509.svg",
+    "main.a70123ac.css.map": "./static/css/main.a70123ac.css.map",
+    "main.94913bd9.js.map": "./static/js/main.94913bd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a70123ac.css",
+    "static/js/main.94913bd9.js"
+  ]
+}
