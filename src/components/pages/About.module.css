@@ -1,0 +1,53 @@
+.container {
+  background-color: #ececec;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.bg {
+  background-image: url("../../images/banner.jpg");
+  width: 100%;
+  height: 20vh;
+  background-size: cover;
+  background-position: center;
+  z-index: 1;
+  position: relative;
+}
+
+.bg::after {
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  content: "";
+  background-color: #07212e;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.bg h1 {
+  padding-top: 1rem;
+  text-align: center;
+  color: #e4e4e4;
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  font-weight: 700;
+  font-size: 64px;
+  font-family: "Poppins";
+  line-height: 1.5;
+}
+
+.textContainer {
+  padding: 50px 80px;
+  text-align: justify;
+  line-height: 1.5rem;
+  border-top: silver solid 1px;
+  border-bottom: silver solid 1px;
+  margin-bottom: 5rem;
+  text-indent: 1rem;
+}
